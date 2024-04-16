@@ -9,3 +9,4 @@ The image is based on Alpine Linux with the following packages installed:
 
 - libxslt
 
+- bash
